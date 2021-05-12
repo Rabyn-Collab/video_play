@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "886831223596",
+    "project_id": "videotube-67a0a",
+    "storage_bucket": "videotube-67a0a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886831223596:android:62a6c737532b31627a9289",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app_ex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886831223596-f4eta8jiktaeqe8a7nsue65mji749sr4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhy1z8u7XV__973Cual16p9kWvrFbC5mY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "886831223596-f4eta8jiktaeqe8a7nsue65mji749sr4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
